@@ -67,4 +67,4 @@ A clean, browser-based speedcubing timer built for focused practice.
 
 <hr />
 <p align="center"><i>Learn. Build. Slop.</i></p>
-<p align="center"> 🌐<a href="https://jaaayy.online">jaaayy.online</a> • <a href="https://btime.site">btime.site</a></p>
+<p align="center"> 🌐<a href="https://jaaayy.online">jaaayy.online</a>
