@@ -55,7 +55,7 @@ A clean, browser-based speedcubing timer built for focused practice.
 🌱 Currently Exploring
 
 - React and modern frontend development
-- Supabase, SQL, and full-stack application architecture
+- Supabase, PostgreSQL, and full-stack application architecture
 - APIs, authentication, and practical backend fundamentals
 - Open-source collaboration and Git workflows
 
